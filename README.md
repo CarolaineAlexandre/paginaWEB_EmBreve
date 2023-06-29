@@ -3,7 +3,8 @@
 Projeto "Em Breve"
 Em Breve
 
-![image](https://github.com/CarolaineAlexandre/Pagina_EmBreve/assets/115526459/b8740e51-4280-4610-8eb1-3631716ee6b9)
+![image](https://github.com/CarolaineAlexandre/paginaWEB_EmBreve/assets/115526459/25801375-5566-4a12-ba51-9032642536c0)
+
 
 
 Este é um projeto simples que visa fornecer um template HTML para uma página "Em Breve". É útil quando você está desenvolvendo um site ou aplicativo e deseja informar aos usuários que o conteúdo estará disponível em breve.
